@@ -1,4 +1,4 @@
-# 🔐 Network Traffic Analysis & Security Labs
+# 🔐 Network Analysis & Security Labs
 
 ## Overview
 
